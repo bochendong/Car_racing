@@ -1,0 +1,91 @@
+
+
+-----------------------------------------------------------------
+File opened at 2022-05-26 21:03:46.040764
+Environment is: CarRacing-v0
+Training started at 2022-05-26 21:03:46.040764
+Episodes:   10, eps=0.148500, avg score: -22.76, over last 10: -14.72
+Episodes:   20, eps=0.147000, avg score: -32.07, over last 10: -42.32
+Episodes:   30, eps=0.145500, avg score: -47.44, over last 10: -79.70
+Episodes:   40, eps=0.144000, avg score: -50.63, over last 10: -60.53
+Episodes:   50, eps=0.142500, avg score: -52.64, over last 10: -60.91
+Episodes:   60, eps=0.141000, avg score: -47.12, over last 10: -18.93
+Episodes:   70, eps=0.139500, avg score: -44.07, over last 10: -25.45
+Episodes:   80, eps=0.138000, avg score: -40.18, over last 10: -12.59
+Episodes:   90, eps=0.136500, avg score: -31.20, over last 10: 41.50
+Episodes:  100, eps=0.135000, avg score: -23.67, over last 10: 44.94
+Episodes:  110, eps=0.133500, avg score: -14.82, over last 10: 74.52
+Episodes:  120, eps=0.132000, avg score: -3.54, over last 10: 121.62
+Episodes:  130, eps=0.130500, avg score: 5.46, over last 10: 114.36
+Episodes:  140, eps=0.129000, avg score: 24.82, over last 10: 278.51
+Episodes:  150, eps=0.127500, avg score: 32.55, over last 10: 141.56
+Episodes:  160, eps=0.126000, avg score: 45.18, over last 10: 235.83
+Episodes:  170, eps=0.124500, avg score: 52.17, over last 10: 164.77
+Episodes:  180, eps=0.123000, avg score: 63.98, over last 10: 265.94
+Episodes:  190, eps=0.121500, avg score: 73.09, over last 10: 237.95
+Episodes:  200, eps=0.120000, avg score: 85.70, over last 10: 326.44
+Episodes:  210, eps=0.118500, avg score: 94.59, over last 10: 273.42
+Episodes:  220, eps=0.117000, avg score: 101.30, over last 10: 242.80
+Episodes:  230, eps=0.115500, avg score: 107.99, over last 10: 255.84
+Episodes:  240, eps=0.114000, avg score: 114.39, over last 10: 262.38
+Episodes:  250, eps=0.112500, avg score: 121.29, over last 10: 287.58
+Episodes:  260, eps=0.111000, avg score: 129.54, over last 10: 336.42
+Episodes:  270, eps=0.109500, avg score: 137.60, over last 10: 347.92
+Episodes:  280, eps=0.108000, avg score: 144.71, over last 10: 337.47
+Episodes:  290, eps=0.106500, avg score: 154.12, over last 10: 418.54
+Episodes:  300, eps=0.105000, avg score: 162.12, over last 10: 394.91
+Episodes:  310, eps=0.103500, avg score: 171.81, over last 10: 463.67
+Episodes:  320, eps=0.102000, avg score: 180.96, over last 10: 465.47
+Episodes:  330, eps=0.100500, avg score: 187.78, over last 10: 406.49
+Episodes:  340, eps=0.099000, avg score: 194.18, over last 10: 406.00
+Episodes:  350, eps=0.097500, avg score: 199.51, over last 10: 381.38
+Episodes:  360, eps=0.096000, avg score: 205.90, over last 10: 430.11
+Episodes:  370, eps=0.094500, avg score: 209.55, over last 10: 341.46
+Episodes:  380, eps=0.093000, avg score: 216.04, over last 10: 456.65
+Episodes:  390, eps=0.091500, avg score: 218.28, over last 10: 303.78
+Episodes:  400, eps=0.090000, avg score: 223.12, over last 10: 412.45
+Episodes:  410, eps=0.088500, avg score: 226.85, over last 10: 376.28
+Episodes:  420, eps=0.087000, avg score: 229.15, over last 10: 323.56
+Episodes:  430, eps=0.085500, avg score: 233.45, over last 10: 414.61
+Episodes:  440, eps=0.084000, avg score: 238.11, over last 10: 438.77
+Episodes:  450, eps=0.082500, avg score: 242.17, over last 10: 421.45
+Episodes:  460, eps=0.081000, avg score: 244.89, over last 10: 367.41
+Episodes:  470, eps=0.079500, avg score: 248.56, over last 10: 417.84
+Episodes:  480, eps=0.078000, avg score: 251.43, over last 10: 386.59
+Episodes:  490, eps=0.076500, avg score: 254.98, over last 10: 425.84
+Episodes:  500, eps=0.075000, avg score: 255.71, over last 10: 291.67
+Episodes:  510, eps=0.073500, avg score: 257.41, over last 10: 342.66
+Episodes:  520, eps=0.072000, avg score: 260.34, over last 10: 409.67
+Episodes:  530, eps=0.070500, avg score: 265.58, over last 10: 538.76
+Episodes:  540, eps=0.069000, avg score: 269.24, over last 10: 463.69
+Episodes:  550, eps=0.067500, avg score: 272.47, over last 10: 447.16
+Episodes:  560, eps=0.066000, avg score: 274.90, over last 10: 408.84
+Episodes:  570, eps=0.064500, avg score: 278.00, over last 10: 451.65
+Episodes:  580, eps=0.063000, avg score: 282.63, over last 10: 547.41
+Episodes:  590, eps=0.061500, avg score: 285.91, over last 10: 476.40
+Episodes:  600, eps=0.060000, avg score: 290.42, over last 10: 556.92
+Episodes:  610, eps=0.058500, avg score: 292.51, over last 10: 418.27
+Episodes:  620, eps=0.057000, avg score: 295.29, over last 10: 464.68
+Episodes:  630, eps=0.055500, avg score: 296.70, over last 10: 384.38
+Episodes:  640, eps=0.054000, avg score: 298.13, over last 10: 388.65
+Episodes:  650, eps=0.052500, avg score: 301.09, over last 10: 490.83
+Episodes:  660, eps=0.051000, avg score: 302.96, over last 10: 424.44
+Episodes:  670, eps=0.049950, avg score: 303.99, over last 10: 371.84
+Episodes:  680, eps=0.049950, avg score: 305.11, over last 10: 380.51
+Episodes:  690, eps=0.049950, avg score: 307.48, over last 10: 469.19
+Episodes:  700, eps=0.049950, avg score: 312.26, over last 10: 642.31
+Episodes:  710, eps=0.049950, avg score: 315.54, over last 10: 545.68
+Episodes:  720, eps=0.049950, avg score: 318.33, over last 10: 516.68
+Episodes:  730, eps=0.049950, avg score: 321.12, over last 10: 522.18
+Episodes:  740, eps=0.049950, avg score: 322.77, over last 10: 443.12
+Episodes:  750, eps=0.049950, avg score: 323.97, over last 10: 413.06
+Episodes:  760, eps=0.049950, avg score: 328.38, over last 10: 659.16
+Episodes:  770, eps=0.049950, avg score: 329.46, over last 10: 412.25
+Episodes:  780, eps=0.049950, avg score: 331.44, over last 10: 484.08
+Episodes:  790, eps=0.049950, avg score: 332.37, over last 10: 404.50
+Episodes:  800, eps=0.049950, avg score: 332.55, over last 10: 347.19
+Episodes:  810, eps=0.049950, avg score: 334.00, over last 10: 449.74
+
+
+-----------------------------------------------------------------
+File opened at 2022-05-29 19:15:54.815209
