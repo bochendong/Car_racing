@@ -517,7 +517,7 @@ class CarRacing(gym.Env, EzPickle):
             colors.extend([0.4, 0.9, 0.4, 1.0] * 4 * 20 * 20)
         elif (self.color == 'gr'):
             colors.extend([0.6, 0.7, 0.8, 1.0] * 4 * 20 * 20)
-        elif (self.colot == 'y'):
+        elif (self.color == 'y'):
             colors.extend([0.9, 0.9, 0.4, 1.0] * 4 * 20 * 20)
             
         for x in range(-20, 20, 2):
