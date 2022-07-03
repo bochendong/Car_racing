@@ -486,8 +486,12 @@ class CarRacing(gym.Env, EzPickle):
             colors = [0.4, 0.4, 0.8, 1.0] * 4
         elif (self.color == 'r'):
             colors = [0.8, 0.4, 0.4, 1.0] * 4
-        else:
+        elif (self.color == 'g'):
             colors = [0.4, 0.8, 0.4, 1.0] * 4
+        elif (self.color == 'y'):
+            colors = [0.8, 0.8, 0.4, 1.0] * 4
+        elif (self.color == 'gr'):
+            colors = [0.5, 0.6, 0.7, 1.0] * 4
 
         polygons_ = [
             +PLAYFIELD,
@@ -509,8 +513,12 @@ class CarRacing(gym.Env, EzPickle):
             colors.extend([0.4, 0.4, 0.9, 1.0] * 4 * 20 * 20)
         elif (self.color == 'r'):
             colors.extend([0.9, 0.4, 0.4, 1.0] * 4 * 20 * 20)
-        else:
+        elif (self.color == 'g'):
             colors.extend([0.4, 0.9, 0.4, 1.0] * 4 * 20 * 20)
+        elif (self.color == 'gr'):
+            colors.extend([0.6, 0.7, 0.8, 1.0] * 4 * 20 * 20)
+        elfi (self.colot == 'y'):
+            colors.extend([0.9, 0.9, 0.4, 1.0] * 4 * 20 * 20)
             
         for x in range(-20, 20, 2):
             for y in range(-20, 20, 2):
