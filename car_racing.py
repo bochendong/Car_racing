@@ -482,8 +482,9 @@ class CarRacing(gym.Env, EzPickle):
             self.viewer = None
 
     def render_road(self):
+        # [r, g, b]
         if (self.color == 'g'):
-            colors = [0.4, 0.75, 0.4, 1.0] * 4
+            colors = [0.4, 0.8, 0.4, 1.0] * 4
         elif (self.color == 'c1'):
             colors = [0.3, 0.6, 0.7, 1.0] * 4
         elif (self.color == 'c2'):
@@ -520,10 +521,9 @@ class CarRacing(gym.Env, EzPickle):
         elif (self.color == 'b1'):
             colors.extend([0.9, 0.4, 0.4, 1.0] * 4 * 20 * 20)
         elif (self.color == 'b2'):
-            colors.extend([0.5, 0.5, 0.5, 1.0] * 4 * 20 * 20)
+            colors.extend([0.5, 0.5, 0.9, 1.0] * 4 * 20 * 20)
         elif (self.color == 'b3'):
             colors.extend([0.6, 0.7, 0.8, 1.0] * 4 * 20 * 20)
-
             
         for x in range(-20, 20, 2):
             for y in range(-20, 20, 2):
