@@ -1,0 +1,1887 @@
+Ep 0	Last score: -17.93	Moving average score: -0.18
+c1 score: -19.46	 c1 Moving average: -0.19
+c2 score: -19.46	 c2 Moving average: -0.19
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 10	Last score: -18.10	Moving average score: -1.83
+c1 score: -5.51	 c1 Moving average: -2.44
+c2 score: -5.51	 c2 Moving average: -2.41
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.20
+Source acc 0.82 0.84 0.88 0.96 0.95 0.93 0.99 0.97 0.87 0.91  
+Target acc 0.76 0.90 0.93 0.99 0.98 0.92 0.97 0.99 0.98 0.89  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 20	Last score: -17.97	Moving average score: -3.34
+c1 score: -32.26	 c1 Moving average: -4.65
+c2 score: -32.26	 c2 Moving average: -4.62
+Ep 30	Last score: -22.57	Moving average score: -4.61
+c1 score: -37.13	 c1 Moving average: -6.51
+c2 score: -37.13	 c2 Moving average: -6.50
+eta: 0.10
+Source acc 0.94 0.96 0.99 0.99 0.98 0.99 0.98 0.97 0.97 0.97  
+Target acc 0.99 0.99 0.99 0.99 0.99 1.00 0.99 0.97 0.99 0.98  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 40	Last score: -17.95	Moving average score: -5.65
+c1 score: -38.65	 c1 Moving average: -8.46
+c2 score: -38.65	 c2 Moving average: -8.51
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 0.95 1.00 1.00 1.00 1.00 0.99 1.00 0.99 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 0.99 0.99 1.00 1.00 1.00 0.99  
+Ep 50	Last score: -17.98	Moving average score: -6.76
+c1 score: -29.05	 c1 Moving average: -10.14
+c2 score: -29.05	 c2 Moving average: -10.15
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 60	Last score: 3.38	Moving average score: -7.10
+c1 score: 6.30	 c1 Moving average: -11.49
+c2 score: -1.57	 c2 Moving average: -11.48
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 0.99 0.97 0.98 0.85 0.95 0.91 0.94 0.96 0.95 0.94  
+Target acc 0.95 0.94 0.99 0.94 0.94 0.94 0.97 0.98 0.97 0.96  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 70	Last score: -17.95	Moving average score: -7.56
+c1 score: -28.34	 c1 Moving average: -13.05
+c2 score: -31.60	 c2 Moving average: -13.00
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 80	Last score: 0.12	Moving average score: -8.32
+c1 score: -33.54	 c1 Moving average: -14.10
+c2 score: -30.38	 c2 Moving average: -14.03
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 0.92 0.95 0.90 0.86 0.94 0.94 0.92 0.79 0.79 0.87  
+Target acc 0.94 0.92 0.92 0.89 0.91 0.91 0.97 0.87 0.79 0.90  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 90	Last score: -2.19	Moving average score: -8.19
+c1 score: -26.06	 c1 Moving average: -14.89
+c2 score: -22.54	 c2 Moving average: -14.69
+Ep 100	Last score: 8.29	Moving average score: -7.83
+c1 score: -1.46	 c1 Moving average: -15.13
+c2 score: -5.11	 c2 Moving average: -14.99
+eta: 0.10
+Source acc 0.88 0.73 0.77 0.83 0.77 0.82 0.72 0.79 0.67 0.73  
+Target acc 0.82 0.85 0.85 0.84 0.78 0.80 0.89 0.81 0.74 0.61  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 110	Last score: 9.56	Moving average score: -7.12
+c1 score: -24.40	 c1 Moving average: -15.85
+c2 score: -27.84	 c2 Moving average: -15.79
+Ep 120	Last score: 14.36	Moving average score: -6.96
+c1 score: 1.08	 c1 Moving average: -16.63
+c2 score: 1.08	 c2 Moving average: -16.60
+eta: 0.10
+Source acc 0.59 0.72 0.68 0.69 0.71 0.62 0.71 0.58 0.58 0.73  
+Target acc 0.77 0.73 0.69 0.74 0.64 0.72 0.69 0.76 0.73 0.69  
+Ep 130	Last score: 12.28	Moving average score: -6.24
+c1 score: 1.45	 c1 Moving average: -16.67
+c2 score: 1.45	 c2 Moving average: -16.74
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 140	Last score: -12.03	Moving average score: -6.23
+c1 score: -35.38	 c1 Moving average: -17.37
+c2 score: -35.38	 c2 Moving average: -17.42
+eta: 0.10
+Source acc 0.59 0.67 0.57 0.63 0.71 0.70 0.64 0.70 0.68 0.72  
+Target acc 0.72 0.66 0.68 0.76 0.63 0.71 0.86 0.71 0.71 0.81  
+Ep 150	Last score: 0.17	Moving average score: -6.06
+c1 score: -26.91	 c1 Moving average: -17.60
+c2 score: -26.91	 c2 Moving average: -17.68
+Ep 160	Last score: -17.95	Moving average score: -5.76
+c1 score: -35.48	 c1 Moving average: -18.13
+c2 score: -35.48	 c2 Moving average: -18.13
+eta: 0.10
+Source acc 0.57 0.69 0.64 0.74 0.78 0.69 0.74 0.65 0.74 0.63  
+Target acc 0.81 0.69 0.70 0.66 0.70 0.71 0.70 0.66 0.60 0.71  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 170	Last score: -9.03	Moving average score: -5.61
+c1 score: -23.61	 c1 Moving average: -18.06
+c2 score: -23.61	 c2 Moving average: -18.03
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 180	Last score: 4.11	Moving average score: -5.73
+c1 score: -30.92	 c1 Moving average: -18.31
+c2 score: -30.92	 c2 Moving average: -18.25
+eta: 0.10
+Source acc 0.60 0.60 0.62 0.63 0.66 0.72 0.59 0.62 0.72 0.68  
+Target acc 0.61 0.65 0.66 0.73 0.71 0.74 0.74 0.74 0.69 0.66  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 190	Last score: 8.80	Moving average score: -4.57
+c1 score: -31.60	 c1 Moving average: -18.68
+c2 score: -31.60	 c2 Moving average: -18.56
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 200	Last score: -18.02	Moving average score: -4.43
+c1 score: -24.14	 c1 Moving average: -19.32
+c2 score: -24.14	 c2 Moving average: -19.31
+eta: 0.10
+Source acc 0.64 0.68 0.67 0.66 0.72 0.67 0.65 0.63 0.75 0.77  
+Target acc 0.69 0.69 0.67 0.70 0.66 0.73 0.67 0.67 0.69 0.75  
+Ep 210	Last score: 14.50	Moving average score: -4.48
+c1 score: 6.76	 c1 Moving average: -20.14
+c2 score: 10.32	 c2 Moving average: -20.07
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 220	Last score: -2.44	Moving average score: -4.18
+c1 score: -30.69	 c1 Moving average: -20.33
+c2 score: -27.39	 c2 Moving average: -20.32
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 0.71 0.75 0.64 0.69 0.74 0.64 0.62 0.75 0.70 0.72  
+Target acc 0.66 0.70 0.71 0.67 0.60 0.74 0.76 0.73 0.71 0.73  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 230	Last score: 1.75	Moving average score: -3.05
+c1 score: -28.34	 c1 Moving average: -20.82
+c2 score: -28.34	 c2 Moving average: -20.82
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 240	Last score: 11.78	Moving average score: -1.59
+c1 score: -27.15	 c1 Moving average: -20.16
+c2 score: -27.15	 c2 Moving average: -20.25
+Ep 250	Last score: 15.94	Moving average score: -0.27
+c1 score: -26.57	 c1 Moving average: -20.56
+c2 score: -26.57	 c2 Moving average: -20.61
+eta: 0.10
+Source acc 0.72 0.64 0.75 0.74 0.70 0.76 0.66 0.77 0.68 0.67  
+Target acc 0.69 0.69 0.74 0.65 0.74 0.66 0.71 0.67 0.70 0.70  
+Ep 260	Last score: 0.22	Moving average score: 1.61
+c1 score: -38.24	 c1 Moving average: -19.62
+c2 score: -38.24	 c2 Moving average: -19.27
+Ep 270	Last score: 16.27	Moving average score: 1.71
+c1 score: -26.17	 c1 Moving average: -19.86
+c2 score: -26.17	 c2 Moving average: -19.48
+eta: 0.10
+Source acc 0.65 0.65 0.64 0.63 0.71 0.76 0.73 0.74 0.69 0.72  
+Target acc 0.65 0.68 0.59 0.67 0.66 0.68 0.74 0.74 0.76 0.65  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 280	Last score: 8.39	Moving average score: 3.10
+c1 score: -27.84	 c1 Moving average: -19.59
+c2 score: -27.84	 c2 Moving average: -19.27
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 290	Last score: 5.68	Moving average score: 4.21
+c1 score: -30.23	 c1 Moving average: -19.45
+c2 score: -30.23	 c2 Moving average: -19.22
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 300	Last score: 8.01	Moving average score: 5.26
+c1 score: -21.99	 c1 Moving average: -20.02
+c2 score: -25.53	 c2 Moving average: -19.82
+eta: 0.10
+Source acc 0.73 0.74 0.69 0.68 0.73 0.75 0.77 0.79 0.77 0.76  
+Target acc 0.73 0.75 0.64 0.70 0.69 0.75 0.75 0.83 0.70 0.82  
+Ep 310	Last score: 19.76	Moving average score: 6.33
+c1 score: -24.91	 c1 Moving average: -19.55
+c2 score: -24.91	 c2 Moving average: -19.34
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 320	Last score: 9.62	Moving average score: 7.28
+c1 score: 7.26	 c1 Moving average: -19.75
+c2 score: 16.72	 c2 Moving average: -19.56
+Ep 330	Last score: 25.53	Moving average score: 7.92
+c1 score: 15.11	 c1 Moving average: -19.88
+c2 score: 11.51	 c2 Moving average: -19.53
+eta: 0.10
+Source acc 0.76 0.71 0.75 0.80 0.80 0.74 0.83 0.82 0.83 0.71  
+Target acc 0.74 0.73 0.74 0.75 0.81 0.80 0.72 0.84 0.76 0.82  
+Ep 340	Last score: 11.74	Moving average score: 8.49
+c1 score: -23.88	 c1 Moving average: -20.50
+c2 score: -23.88	 c2 Moving average: -20.14
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 350	Last score: 17.95	Moving average score: 10.13
+c1 score: -23.08	 c1 Moving average: -19.29
+c2 score: -19.58	 c2 Moving average: -19.37
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 360	Last score: 37.37	Moving average score: 10.69
+c1 score: -13.39	 c1 Moving average: -19.13
+c2 score: -9.45	 c2 Moving average: -19.33
+eta: 0.10
+Source acc 0.73 0.76 0.83 0.83 0.83 0.79 0.75 0.72 0.81 0.85  
+Target acc 0.71 0.74 0.81 0.77 0.81 0.72 0.70 0.82 0.80 0.79  
+Ep 370	Last score: 8.55	Moving average score: 11.50
+c1 score: -35.38	 c1 Moving average: -18.73
+c2 score: -35.38	 c2 Moving average: -18.23
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 380	Last score: 11.06	Moving average score: 12.18
+c1 score: -28.80	 c1 Moving average: -17.94
+c2 score: -28.80	 c2 Moving average: -17.60
+Ep 390	Last score: 20.62	Moving average score: 12.64
+c1 score: -23.61	 c1 Moving average: -17.23
+c2 score: -23.61	 c2 Moving average: -16.79
+eta: 0.10
+Source acc 0.72 0.81 0.79 0.74 0.76 0.73 0.79 0.75 0.79 0.77  
+Target acc 0.78 0.70 0.78 0.74 0.70 0.78 0.78 0.77 0.74 0.76  
+Ep 400	Last score: 24.55	Moving average score: 13.66
+c1 score: 14.86	 c1 Moving average: -16.64
+c2 score: 21.62	 c2 Moving average: -16.45
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 410	Last score: 30.23	Moving average score: 13.58
+c1 score: 31.67	 c1 Moving average: -15.64
+c2 score: 28.11	 c2 Moving average: -15.84
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 420	Last score: 26.90	Moving average score: 15.00
+c1 score: -29.53	 c1 Moving average: -16.08
+c2 score: -26.17	 c2 Moving average: -16.22
+Ep 430	Last score: 21.07	Moving average score: 15.80
+c1 score: -29.03	 c1 Moving average: -14.62
+c2 score: -25.81	 c2 Moving average: -14.99
+eta: 0.10
+Source acc 0.68 0.78 0.79 0.81 0.82 0.72 0.82 0.75 0.78 0.80  
+Target acc 0.71 0.75 0.76 0.80 0.76 0.76 0.77 0.76 0.75 0.78  
+Ep 440	Last score: 32.42	Moving average score: 16.41
+c1 score: -21.43	 c1 Moving average: -14.65
+c2 score: -21.43	 c2 Moving average: -15.03
+Ep 450	Last score: 36.13	Moving average score: 17.54
+c1 score: -16.67	 c1 Moving average: -14.70
+c2 score: -20.29	 c2 Moving average: -14.78
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 460	Last score: 32.05	Moving average score: 17.29
+c1 score: -6.59	 c1 Moving average: -14.48
+c2 score: -3.85	 c2 Moving average: -14.59
+Ep 470	Last score: 10.54	Moving average score: 16.69
+c1 score: -10.78	 c1 Moving average: -14.92
+c2 score: -14.50	 c2 Moving average: -14.57
+eta: 0.10
+Source acc 0.77 0.82 0.72 0.85 0.82 0.76 0.83 0.77 0.81 0.83  
+Target acc 0.80 0.76 0.77 0.81 0.82 0.74 0.82 0.73 0.78 0.75  
+Ep 480	Last score: 37.07	Moving average score: 17.43
+c1 score: -19.58	 c1 Moving average: -13.62
+c2 score: -19.58	 c2 Moving average: -13.64
+Ep 490	Last score: 13.50	Moving average score: 18.07
+c1 score: -11.03	 c1 Moving average: -13.38
+c2 score: -18.15	 c2 Moving average: -13.10
+Ep 500	Last score: -17.95	Moving average score: 17.63
+c1 score: -22.30	 c1 Moving average: -12.48
+c2 score: -22.30	 c2 Moving average: -12.63
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 510	Last score: 27.72	Moving average score: 18.58
+c1 score: -34.93	 c1 Moving average: -11.49
+c2 score: -17.81	 c2 Moving average: -13.34
+eta: 0.10
+Source acc 0.73 0.73 0.75 0.82 0.78 0.78 0.83 0.75 0.78 0.79  
+Target acc 0.73 0.76 0.77 0.74 0.81 0.80 0.76 0.80 0.75 0.81  
+Ep 520	Last score: 34.61	Moving average score: 19.74
+c1 score: -21.31	 c1 Moving average: -12.42
+c2 score: -18.03	 c2 Moving average: -13.92
+Ep 530	Last score: 10.38	Moving average score: 19.58
+c1 score: 33.57	 c1 Moving average: -12.98
+c2 score: 33.57	 c2 Moving average: -12.95
+Ep 540	Last score: 33.91	Moving average score: 20.71
+c1 score: -20.53	 c1 Moving average: -13.65
+c2 score: -27.15	 c2 Moving average: -13.31
+Ep 550	Last score: 50.60	Moving average score: 20.90
+c1 score: -9.45	 c1 Moving average: -13.81
+c2 score: -9.45	 c2 Moving average: -13.73
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 0.82 0.78 0.78 0.79 0.80 0.78 0.81 0.79 0.79 0.78  
+Target acc 0.74 0.79 0.77 0.75 0.76 0.79 0.79 0.79 0.72 0.76  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 560	Last score: 10.77	Moving average score: 20.81
+c1 score: 45.91	 c1 Moving average: -11.39
+c2 score: 49.47	 c2 Moving average: -12.80
+Ep 570	Last score: 13.23	Moving average score: 20.43
+c1 score: -18.15	 c1 Moving average: -11.10
+c2 score: -11.03	 c2 Moving average: -13.38
+Ep 580	Last score: 18.04	Moving average score: 20.60
+c1 score: 100.00	 c1 Moving average: -9.46
+c2 score: 103.64	 c2 Moving average: -11.83
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 590	Last score: 17.37	Moving average score: 20.64
+c1 score: -20.14	 c1 Moving average: -9.51
+c2 score: -20.14	 c2 Moving average: -11.37
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 600	Last score: 37.53	Moving average score: 21.36
+c1 score: -20.27	 c1 Moving average: -9.07
+c2 score: -23.59	 c2 Moving average: -10.89
+eta: 0.10
+Source acc 0.76 0.75 0.75 0.77 0.80 0.77 0.81 0.85 0.88 0.89  
+Target acc 0.76 0.73 0.77 0.75 0.76 0.78 0.81 0.81 0.87 0.86  
+Ep 610	Last score: 13.36	Moving average score: 21.31
+c1 score: -32.69	 c1 Moving average: -8.74
+c2 score: -19.87	 c2 Moving average: -10.17
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 620	Last score: 42.76	Moving average score: 21.45
+c1 score: -7.26	 c1 Moving average: -8.20
+c2 score: -11.29	 c2 Moving average: -8.20
+Ep 630	Last score: 56.08	Moving average score: 21.35
+c1 score: -8.73	 c1 Moving average: -8.83
+c2 score: -28.57	 c2 Moving average: -8.88
+Ep 640	Last score: 39.74	Moving average score: 22.54
+c1 score: -24.66	 c1 Moving average: -9.04
+c2 score: -28.08	 c2 Moving average: -8.97
+eta: 0.10
+Source acc 0.79 0.83 0.85 0.82 0.86 0.78 0.82 0.85 0.76 0.86  
+Target acc 0.77 0.83 0.85 0.83 0.86 0.77 0.83 0.75 0.85 0.77  
+Ep 650	Last score: 52.78	Moving average score: 22.95
+c1 score: -22.56	 c1 Moving average: -9.87
+c2 score: -22.56	 c2 Moving average: -9.20
+Ep 660	Last score: 35.34	Moving average score: 24.59
+c1 score: -23.88	 c1 Moving average: -9.66
+c2 score: -23.88	 c2 Moving average: -8.84
+Ep 670	Last score: 13.47	Moving average score: 26.36
+c1 score: -30.38	 c1 Moving average: -6.79
+c2 score: -24.05	 c2 Moving average: -8.99
+Ep 680	Last score: 34.06	Moving average score: 25.46
+c1 score: -19.86	 c1 Moving average: -7.78
+c2 score: -23.34	 c2 Moving average: -10.31
+Ep 690	Last score: 8.79	Moving average score: 25.59
+c1 score: -25.57	 c1 Moving average: -6.78
+c2 score: -28.80	 c2 Moving average: -6.98
+eta: 0.10
+Source acc 0.77 0.78 0.82 0.79 0.84 0.80 0.79 0.80 0.83 0.76  
+Target acc 0.78 0.74 0.81 0.81 0.81 0.80 0.80 0.78 0.76 0.80  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 700	Last score: 19.32	Moving average score: 26.89
+c1 score: -4.76	 c1 Moving average: 1.93
+c2 score: 229.67	 c2 Moving average: 7.79
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 710	Last score: 56.09	Moving average score: 27.99
+c1 score: -12.89	 c1 Moving average: 10.28
+c2 score: -9.41	 c2 Moving average: 16.73
+Ep 720	Last score: 56.09	Moving average score: 27.56
+c1 score: 218.47	 c1 Moving average: 12.05
+c2 score: -23.57	 c2 Moving average: 19.07
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 0.75 0.79 0.80 0.80 0.79 0.80 0.79 0.84 0.76 0.83  
+Target acc 0.72 0.79 0.77 0.79 0.77 0.75 0.80 0.78 0.80 0.77  
+Ep 730	Last score: 25.66	Moving average score: 30.75
+c1 score: 248.43	 c1 Moving average: 20.23
+c2 score: 269.34	 c2 Moving average: 27.84
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 740	Last score: 54.40	Moving average score: 32.97
+c1 score: 44.98	 c1 Moving average: 29.53
+c2 score: 30.11	 c2 Moving average: 32.73
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 750	Last score: 249.95	Moving average score: 39.11
+c1 score: 163.32	 c1 Moving average: 44.58
+c2 score: 166.46	 c2 Moving average: 47.74
+eta: 0.10
+Source acc 0.72 0.81 0.81 0.82 0.81 0.83 0.81 0.87 0.85 0.85  
+Target acc 0.78 0.76 0.82 0.73 0.84 0.86 0.83 0.86 0.82 0.82  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 760	Last score: 30.79	Moving average score: 41.30
+c1 score: 28.62	 c1 Moving average: 63.41
+c2 score: 28.62	 c2 Moving average: 67.19
+Ep 770	Last score: 56.30	Moving average score: 44.31
+c1 score: 233.33	 c1 Moving average: 80.14
+c2 score: 240.28	 c2 Moving average: 81.26
+Ep 780	Last score: 89.02	Moving average score: 48.22
+c1 score: 255.70	 c1 Moving average: 93.72
+c2 score: 155.03	 c2 Moving average: 93.31
+eta: 0.10
+Source acc 0.82 0.83 0.79 0.84 0.83 0.85 0.81 0.76 0.75 0.81  
+Target acc 0.79 0.79 0.80 0.84 0.85 0.82 0.82 0.77 0.80 0.75  
+Ep 790	Last score: 32.26	Moving average score: 52.83
+c1 score: 18.96	 c1 Moving average: 107.32
+c2 score: 26.39	 c2 Moving average: 104.70
+Ep 800	Last score: 56.10	Moving average score: 56.33
+c1 score: 206.12	 c1 Moving average: 118.91
+c2 score: 127.41	 c2 Moving average: 115.81
+eta: 0.10
+Source acc 0.72 0.80 0.77 0.77 0.79 0.79 0.73 0.80 0.81 0.83  
+Target acc 0.73 0.78 0.78 0.79 0.77 0.73 0.78 0.78 0.78 0.80  
+Ep 810	Last score: 76.02	Moving average score: 66.50
+c1 score: 375.73	 c1 Moving average: 127.47
+c2 score: 378.96	 c2 Moving average: 125.54
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 820	Last score: 184.29	Moving average score: 76.45
+c1 score: 346.25	 c1 Moving average: 149.59
+c2 score: 346.25	 c2 Moving average: 148.43
+eta: 0.10
+Source acc 0.80 0.80 0.88 0.86 0.85 0.80 0.88 0.92 0.89 0.91  
+Target acc 0.79 0.82 0.83 0.87 0.79 0.81 0.89 0.86 0.88 0.88  
+Ep 830	Last score: 348.98	Moving average score: 97.23
+c1 score: 455.97	 c1 Moving average: 166.49
+c2 score: 478.36	 c2 Moving average: 167.89
+Ep 840	Last score: 196.46	Moving average score: 110.04
+c1 score: 503.57	 c1 Moving average: 181.49
+c2 score: 496.43	 c2 Moving average: 181.67
+eta: 0.10
+Source acc 0.88 0.88 0.87 0.92 0.86 0.91 0.87 0.94 0.95 0.90  
+Target acc 0.86 0.84 0.89 0.86 0.88 0.90 0.88 0.87 0.94 0.87  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 850	Last score: 332.15	Moving average score: 128.77
+c1 score: 383.28	 c1 Moving average: 203.08
+c2 score: 413.68	 c2 Moving average: 203.52
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 860	Last score: 13.74	Moving average score: 137.18
+c1 score: 484.72	 c1 Moving average: 225.04
+c2 score: 458.14	 c2 Moving average: 221.07
+eta: 0.10
+Source acc 0.94 0.95 0.96 0.97 0.97 0.96 0.97 0.96 0.97 0.94  
+Target acc 0.91 0.94 0.97 0.95 0.94 0.96 0.94 0.96 0.95 0.93  
+Ep 870	Last score: 56.03	Moving average score: 157.99
+c1 score: 598.04	 c1 Moving average: 245.11
+c2 score: 613.73	 c2 Moving average: 242.60
+eta: 0.10
+Source acc 0.95 0.95 0.97 0.95 0.95 0.98 0.98 0.98 0.97 0.99  
+Target acc 0.93 0.96 0.96 0.90 0.97 0.97 0.97 0.95 0.96 0.98  
+Ep 880	Last score: 509.27	Moving average score: 181.82
+c1 score: 481.47	 c1 Moving average: 262.57
+c2 score: 519.81	 c2 Moving average: 256.87
+eta: 0.10
+Source acc 0.97 0.97 0.97 0.98 0.98 0.97 0.98 0.96 0.98 0.99  
+Target acc 0.95 0.98 0.97 0.96 0.96 0.98 0.98 0.96 0.97 0.99  
+Ep 890	Last score: 836.33	Moving average score: 215.40
+c1 score: 627.60	 c1 Moving average: 283.76
+c2 score: 656.27	 c2 Moving average: 279.35
+Ep 900	Last score: 261.71	Moving average score: 235.51
+c1 score: 605.08	 c1 Moving average: 310.71
+c2 score: 594.92	 c2 Moving average: 308.62
+eta: 0.10
+Source acc 0.98 0.98 0.99 0.98 0.99 1.00 0.99 0.97 0.99 1.00  
+Target acc 0.98 0.98 0.99 0.99 0.99 0.97 0.99 0.98 0.98 0.99  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 910	Last score: 206.66	Moving average score: 245.47
+c1 score: 607.55	 c1 Moving average: 329.17
+c2 score: 629.56	 c2 Moving average: 325.04
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 920	Last score: 17.69	Moving average score: 273.45
+c1 score: 666.10	 c1 Moving average: 356.40
+c2 score: 652.54	 c2 Moving average: 339.46
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 0.98 0.98 0.99 1.00 0.99 1.00 0.99 1.00 0.99 0.99  
+Target acc 0.98 0.99 0.99 0.99 0.99 1.00 0.99 0.99 0.99 0.99  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 930	Last score: 567.16	Moving average score: 313.10
+c1 score: 629.90	 c1 Moving average: 381.26
+c2 score: 620.26	 c2 Moving average: 371.53
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 0.99 0.99 1.00 0.99 0.99 1.00 1.00 0.99 1.00 1.00  
+Target acc 0.99 0.99 0.99 0.99 0.99 0.99 0.99 0.99 0.99 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 940	Last score: 580.23	Moving average score: 323.02
+c1 score: 660.66	 c1 Moving average: 406.55
+c2 score: 654.10	 c2 Moving average: 392.87
+Ep 950	Last score: 123.60	Moving average score: 343.35
+c1 score: 694.01	 c1 Moving average: 433.89
+c2 score: 68.54	 c2 Moving average: 416.61
+eta: 0.10
+Source acc 0.98 0.99 1.00 0.99 0.98 1.00 1.00 1.00 1.00 0.99  
+Target acc 0.98 0.98 0.99 0.98 0.99 0.99 1.00 0.99 0.99 0.99  
+Ep 960	Last score: 29.09	Moving average score: 364.46
+c1 score: 861.39	 c1 Moving average: 462.34
+c2 score: 884.56	 c2 Moving average: 448.34
+Ep 970	Last score: 867.77	Moving average score: 394.98
+c1 score: 797.44	 c1 Moving average: 487.97
+c2 score: 786.45	 c2 Moving average: 476.01
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 0.99 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 980	Last score: 832.42	Moving average score: 417.70
+c1 score: 668.75	 c1 Moving average: 512.20
+c2 score: 559.37	 c2 Moving average: 502.24
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 0.99 1.00 1.00 0.99 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 0.99 0.98 1.00 1.00 1.00 1.00 1.00  
+Ep 990	Last score: 827.14	Moving average score: 455.14
+c1 score: 602.79	 c1 Moving average: 534.69
+c2 score: 243.65	 c2 Moving average: 522.26
+Ep 1000	Last score: 643.97	Moving average score: 473.38
+c1 score: 837.50	 c1 Moving average: 556.70
+c2 score: 855.88	 c2 Moving average: 538.99
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 0.99 1.00 1.00 1.00 1.00 1.00  
+Ep 1010	Last score: 140.34	Moving average score: 475.65
+c1 score: 723.53	 c1 Moving average: 570.72
+c2 score: 778.89	 c2 Moving average: 555.85
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1020	Last score: 872.96	Moving average score: 491.31
+c1 score: 871.12	 c1 Moving average: 585.25
+c2 score: 863.90	 c2 Moving average: 571.91
+Ep 1030	Last score: 857.99	Moving average score: 511.88
+c1 score: 719.67	 c1 Moving average: 602.31
+c2 score: 719.67	 c2 Moving average: 591.15
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1040	Last score: 252.34	Moving average score: 518.35
+c1 score: 741.12	 c1 Moving average: 621.34
+c2 score: 685.05	 c2 Moving average: 611.20
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1050	Last score: 857.28	Moving average score: 548.30
+c1 score: 882.27	 c1 Moving average: 639.71
+c2 score: 885.82	 c2 Moving average: 631.33
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1060	Last score: 842.49	Moving average score: 569.90
+c1 score: 885.61	 c1 Moving average: 658.50
+c2 score: 892.81	 c2 Moving average: 651.55
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1070	Last score: 859.61	Moving average score: 576.71
+c1 score: 882.76	 c1 Moving average: 674.24
+c2 score: 868.97	 c2 Moving average: 668.07
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1080	Last score: 809.80	Moving average score: 590.46
+c1 score: 722.82	 c1 Moving average: 689.64
+c2 score: 740.84	 c2 Moving average: 685.88
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1090	Last score: 864.50	Moving average score: 599.19
+c1 score: 892.57	 c1 Moving average: 707.83
+c2 score: 909.10	 c2 Moving average: 705.13
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1100	Last score: 1001.30	Moving average score: 619.11
+c1 score: 911.60	 c1 Moving average: 722.63
+c2 score: 910.40	 c2 Moving average: 720.91
+Ep 1110	Last score: 291.90	Moving average score: 627.82
+c1 score: 903.90	 c1 Moving average: 738.96
+c2 score: 904.90	 c2 Moving average: 737.83
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1120	Last score: 988.40	Moving average score: 635.48
+c1 score: 840.25	 c1 Moving average: 748.48
+c2 score: 840.25	 c2 Moving average: 748.54
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1130	Last score: 313.40	Moving average score: 626.94
+c1 score: 889.80	 c1 Moving average: 761.19
+c2 score: 889.80	 c2 Moving average: 761.84
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1140	Last score: 818.83	Moving average score: 634.94
+c1 score: 904.40	 c1 Moving average: 773.06
+c2 score: 904.30	 c2 Moving average: 773.72
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1150	Last score: 502.81	Moving average score: 640.39
+c1 score: 874.84	 c1 Moving average: 783.77
+c2 score: 877.99	 c2 Moving average: 784.99
+Ep 1160	Last score: 885.35	Moving average score: 643.88
+c1 score: 912.50	 c1 Moving average: 793.90
+c2 score: 913.20	 c2 Moving average: 796.17
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1170	Last score: 484.71	Moving average score: 648.51
+c1 score: 852.23	 c1 Moving average: 803.63
+c2 score: 884.08	 c2 Moving average: 806.12
+Ep 1180	Last score: 835.75	Moving average score: 647.10
+c1 score: 886.84	 c1 Moving average: 812.69
+c2 score: 886.84	 c2 Moving average: 815.25
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1190	Last score: 584.15	Moving average score: 653.17
+c1 score: 911.10	 c1 Moving average: 821.27
+c2 score: 914.20	 c2 Moving average: 823.82
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1200	Last score: 551.80	Moving average score: 655.42
+c1 score: 887.39	 c1 Moving average: 826.38
+c2 score: 915.40	 c2 Moving average: 829.13
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1210	Last score: 270.05	Moving average score: 657.47
+c1 score: 697.55	 c1 Moving average: 831.16
+c2 score: 694.48	 c2 Moving average: 834.38
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1220	Last score: 421.02	Moving average score: 650.95
+c1 score: 906.70	 c1 Moving average: 837.76
+c2 score: 896.59	 c2 Moving average: 841.04
+Ep 1230	Last score: 546.76	Moving average score: 666.89
+c1 score: 910.10	 c1 Moving average: 843.41
+c2 score: 912.80	 c2 Moving average: 846.43
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1240	Last score: 888.86	Moving average score: 677.28
+c1 score: 917.30	 c1 Moving average: 847.23
+c2 score: 919.40	 c2 Moving average: 850.31
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1250	Last score: 849.63	Moving average score: 683.52
+c1 score: 878.33	 c1 Moving average: 851.49
+c2 score: 884.52	 c2 Moving average: 854.82
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1260	Last score: 854.64	Moving average score: 693.10
+c1 score: 893.29	 c1 Moving average: 854.60
+c2 score: 911.80	 c2 Moving average: 858.14
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1270	Last score: 857.59	Moving average score: 700.58
+c1 score: 890.38	 c1 Moving average: 857.34
+c2 score: 893.59	 c2 Moving average: 861.24
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1280	Last score: 876.74	Moving average score: 718.37
+c1 score: 873.77	 c1 Moving average: 860.96
+c2 score: 860.66	 c2 Moving average: 865.11
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1290	Last score: 827.82	Moving average score: 731.49
+c1 score: 816.92	 c1 Moving average: 862.01
+c2 score: 872.31	 c2 Moving average: 867.82
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1300	Last score: 860.55	Moving average score: 743.51
+c1 score: 827.27	 c1 Moving average: 862.24
+c2 score: 860.61	 c2 Moving average: 868.64
+Ep 1310	Last score: 388.62	Moving average score: 750.06
+c1 score: 865.08	 c1 Moving average: 863.92
+c2 score: 871.43	 c2 Moving average: 871.12
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1320	Last score: 1009.90	Moving average score: 769.36
+c1 score: 919.80	 c1 Moving average: 868.21
+c2 score: 920.90	 c2 Moving average: 874.52
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 0.97 0.98 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 0.99 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1330	Last score: 883.86	Moving average score: 772.40
+c1 score: 908.50	 c1 Moving average: 871.66
+c2 score: 909.70	 c2 Moving average: 877.43
+Ep 1340	Last score: 875.24	Moving average score: 787.00
+c1 score: 902.70	 c1 Moving average: 874.39
+c2 score: 890.54	 c2 Moving average: 880.26
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1350	Last score: 830.59	Moving average score: 795.51
+c1 score: 893.38	 c1 Moving average: 875.95
+c2 score: 908.10	 c2 Moving average: 881.03
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1360	Last score: 883.80	Moving average score: 806.15
+c1 score: 878.10	 c1 Moving average: 875.35
+c2 score: 881.75	 c2 Moving average: 880.52
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1370	Last score: 1005.40	Moving average score: 817.99
+c1 score: 892.86	 c1 Moving average: 876.50
+c2 score: 913.30	 c2 Moving average: 882.04
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1380	Last score: 870.35	Moving average score: 819.38
+c1 score: 881.93	 c1 Moving average: 876.05
+c2 score: 881.93	 c2 Moving average: 881.39
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1390	Last score: 820.65	Moving average score: 826.97
+c1 score: 871.70	 c1 Moving average: 877.83
+c2 score: 877.99	 c2 Moving average: 883.02
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1400	Last score: 261.97	Moving average score: 826.69
+c1 score: 853.49	 c1 Moving average: 878.14
+c2 score: 860.13	 c2 Moving average: 883.79
+Ep 1410	Last score: 878.62	Moving average score: 839.72
+c1 score: 880.77	 c1 Moving average: 876.39
+c2 score: 888.46	 c2 Moving average: 882.92
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1420	Last score: 1000.20	Moving average score: 847.10
+c1 score: 867.64	 c1 Moving average: 873.05
+c2 score: 883.82	 c2 Moving average: 880.62
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1430	Last score: 1004.20	Moving average score: 856.15
+c1 score: 869.28	 c1 Moving average: 872.68
+c2 score: 882.94	 c2 Moving average: 880.49
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1440	Last score: 873.53	Moving average score: 860.24
+c1 score: 836.51	 c1 Moving average: 871.81
+c2 score: 865.08	 c2 Moving average: 880.29
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1450	Last score: 1004.20	Moving average score: 855.10
+c1 score: 866.10	 c1 Moving average: 870.98
+c2 score: 879.66	 c2 Moving average: 879.40
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1460	Last score: 852.85	Moving average score: 852.64
+c1 score: 865.73	 c1 Moving average: 868.35
+c2 score: 878.19	 c2 Moving average: 876.19
+Ep 1470	Last score: 643.85	Moving average score: 850.34
+c1 score: 890.03	 c1 Moving average: 866.12
+c2 score: 890.03	 c2 Moving average: 875.21
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1480	Last score: 845.56	Moving average score: 859.03
+c1 score: 880.92	 c1 Moving average: 866.90
+c2 score: 922.60	 c2 Moving average: 876.56
+Ep 1490	Last score: 1008.10	Moving average score: 866.03
+c1 score: 889.76	 c1 Moving average: 867.30
+c2 score: 910.80	 c2 Moving average: 877.09
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1500	Last score: 1023.60	Moving average score: 874.21
+c1 score: 922.70	 c1 Moving average: 867.67
+c2 score: 879.59	 c2 Moving average: 877.20
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1510	Last score: 1014.80	Moving average score: 872.53
+c1 score: 896.05	 c1 Moving average: 868.16
+c2 score: 921.50	 c2 Moving average: 877.93
+Ep 1520	Last score: 877.98	Moving average score: 880.23
+c1 score: 841.39	 c1 Moving average: 867.14
+c2 score: 845.05	 c2 Moving average: 877.03
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1530	Last score: 1009.10	Moving average score: 889.71
+c1 score: 861.67	 c1 Moving average: 868.24
+c2 score: 865.16	 c2 Moving average: 877.80
+Ep 1540	Last score: 877.92	Moving average score: 888.49
+c1 score: 896.34	 c1 Moving average: 867.89
+c2 score: 916.70	 c2 Moving average: 878.45
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1550	Last score: 885.03	Moving average score: 891.10
+c1 score: 893.27	 c1 Moving average: 869.46
+c2 score: 896.63	 c2 Moving average: 879.85
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1560	Last score: 1011.60	Moving average score: 896.59
+c1 score: 920.10	 c1 Moving average: 868.90
+c2 score: 921.50	 c2 Moving average: 879.86
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1570	Last score: 890.21	Moving average score: 897.31
+c1 score: 882.52	 c1 Moving average: 869.95
+c2 score: 882.52	 c2 Moving average: 879.86
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1580	Last score: 1010.80	Moving average score: 904.11
+c1 score: 915.20	 c1 Moving average: 870.52
+c2 score: 917.40	 c2 Moving average: 880.21
+Ep 1590	Last score: 998.40	Moving average score: 886.84
+c1 score: 863.08	 c1 Moving average: 865.38
+c2 score: 878.46	 c2 Moving average: 874.48
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1600	Last score: 1007.80	Moving average score: 894.59
+c1 score: 871.73	 c1 Moving average: 865.63
+c2 score: 871.73	 c2 Moving average: 874.71
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1610	Last score: 882.93	Moving average score: 900.25
+c1 score: 865.75	 c1 Moving average: 866.52
+c2 score: 872.60	 c2 Moving average: 873.85
+Ep 1620	Last score: 895.14	Moving average score: 906.55
+c1 score: 896.11	 c1 Moving average: 868.34
+c2 score: 905.70	 c2 Moving average: 875.40
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1630	Last score: 1000.90	Moving average score: 912.24
+c1 score: 863.70	 c1 Moving average: 868.21
+c2 score: 863.70	 c2 Moving average: 875.34
+Ep 1640	Last score: 1009.90	Moving average score: 913.85
+c1 score: 896.27	 c1 Moving average: 867.93
+c2 score: 896.27	 c2 Moving average: 875.35
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1650	Last score: 883.01	Moving average score: 916.80
+c1 score: 879.17	 c1 Moving average: 867.12
+c2 score: 872.22	 c2 Moving average: 874.75
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1660	Last score: 999.00	Moving average score: 921.85
+c1 score: 868.55	 c1 Moving average: 866.56
+c2 score: 874.84	 c2 Moving average: 874.06
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1670	Last score: 877.89	Moving average score: 925.08
+c1 score: 914.10	 c1 Moving average: 867.91
+c2 score: 914.20	 c2 Moving average: 875.52
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1680	Last score: 855.50	Moving average score: 921.72
+c1 score: 839.93	 c1 Moving average: 867.05
+c2 score: 847.00	 c2 Moving average: 875.72
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1690	Last score: 881.86	Moving average score: 922.52
+c1 score: 886.06	 c1 Moving average: 868.23
+c2 score: 886.06	 c2 Moving average: 876.55
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1710	Last score: 187.52	Moving average score: 904.96
+c1 score: 860.99	 c1 Moving average: 867.99
+c2 score: 868.09	 c2 Moving average: 875.95
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1720	Last score: 1006.60	Moving average score: 895.75
+c1 score: 893.29	 c1 Moving average: 868.78
+c2 score: 905.70	 c2 Moving average: 877.03
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1730	Last score: 736.28	Moving average score: 896.25
+c1 score: 865.64	 c1 Moving average: 869.53
+c2 score: 913.30	 c2 Moving average: 878.16
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1740	Last score: 1016.40	Moving average score: 896.18
+c1 score: 892.62	 c1 Moving average: 870.22
+c2 score: 892.62	 c2 Moving average: 879.41
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1750	Last score: 846.86	Moving average score: 885.94
+c1 score: 908.50	 c1 Moving average: 873.13
+c2 score: 902.80	 c2 Moving average: 881.47
+Ep 1760	Last score: 890.73	Moving average score: 891.06
+c1 score: 880.92	 c1 Moving average: 874.62
+c2 score: 896.18	 c2 Moving average: 882.24
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1770	Last score: 1010.40	Moving average score: 870.54
+c1 score: 882.94	 c1 Moving average: 875.74
+c2 score: 915.00	 c2 Moving average: 883.53
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1780	Last score: 891.74	Moving average score: 878.02
+c1 score: 912.60	 c1 Moving average: 879.46
+c2 score: 912.80	 c2 Moving average: 886.54
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1790	Last score: 1009.40	Moving average score: 876.80
+c1 score: 869.70	 c1 Moving average: 881.37
+c2 score: 856.23	 c2 Moving average: 887.52
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1800	Last score: 1007.20	Moving average score: 873.22
+c1 score: 916.80	 c1 Moving average: 883.18
+c2 score: 915.60	 c2 Moving average: 888.85
+Ep 1810	Last score: 832.65	Moving average score: 873.87
+c1 score: 908.60	 c1 Moving average: 880.42
+c2 score: 908.80	 c2 Moving average: 890.19
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1820	Last score: 303.79	Moving average score: 869.37
+c1 score: 885.87	 c1 Moving average: 880.21
+c2 score: 871.73	 c2 Moving average: 890.11
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1830	Last score: 867.99	Moving average score: 866.33
+c1 score: 859.32	 c1 Moving average: 877.85
+c2 score: 869.49	 c2 Moving average: 890.17
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1840	Last score: 871.27	Moving average score: 860.66
+c1 score: 854.37	 c1 Moving average: 879.20
+c2 score: 877.19	 c2 Moving average: 887.04
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1850	Last score: 881.75	Moving average score: 862.13
+c1 score: 893.57	 c1 Moving average: 877.82
+c2 score: 883.92	 c2 Moving average: 883.28
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1860	Last score: 844.53	Moving average score: 866.71
+c1 score: 828.80	 c1 Moving average: 875.56
+c2 score: 828.80	 c2 Moving average: 879.74
+Ep 1870	Last score: 1018.00	Moving average score: 858.60
+c1 score: 888.93	 c1 Moving average: 874.92
+c2 score: 892.62	 c2 Moving average: 879.23
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1880	Last score: 890.96	Moving average score: 865.96
+c1 score: 909.50	 c1 Moving average: 873.56
+c2 score: 896.72	 c2 Moving average: 881.09
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1890	Last score: 853.65	Moving average score: 872.62
+c1 score: 856.95	 c1 Moving average: 874.86
+c2 score: 843.71	 c2 Moving average: 881.23
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1900	Last score: 872.27	Moving average score: 875.75
+c1 score: 863.33	 c1 Moving average: 876.86
+c2 score: 860.00	 c2 Moving average: 882.94
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1910	Last score: 1014.40	Moving average score: 882.37
+c1 score: 920.50	 c1 Moving average: 879.01
+c2 score: 921.00	 c2 Moving average: 884.55
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1920	Last score: 325.30	Moving average score: 878.99
+c1 score: 893.96	 c1 Moving average: 880.57
+c2 score: 906.90	 c2 Moving average: 886.08
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1930	Last score: 874.23	Moving average score: 886.42
+c1 score: 878.06	 c1 Moving average: 881.78
+c2 score: 881.19	 c2 Moving average: 887.16
+Ep 1940	Last score: 1017.50	Moving average score: 893.19
+c1 score: 892.70	 c1 Moving average: 883.42
+c2 score: 924.40	 c2 Moving average: 888.92
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1950	Last score: 881.32	Moving average score: 894.57
+c1 score: 893.01	 c1 Moving average: 885.25
+c2 score: 919.40	 c2 Moving average: 890.24
+Ep 1960	Last score: 1004.10	Moving average score: 898.67
+c1 score: 890.74	 c1 Moving average: 886.19
+c2 score: 909.80	 c2 Moving average: 891.36
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1970	Last score: 870.21	Moving average score: 897.75
+c1 score: 930.00	 c1 Moving average: 887.13
+c2 score: 930.70	 c2 Moving average: 888.50
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 1980	Last score: 509.37	Moving average score: 877.36
+c1 score: 889.66	 c1 Moving average: 883.71
+c2 score: 920.40	 c2 Moving average: 884.72
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 1990	Last score: 897.71	Moving average score: 872.62
+c1 score: 914.20	 c1 Moving average: 882.33
+c2 score: 924.40	 c2 Moving average: 883.18
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2000	Last score: 871.06	Moving average score: 870.19
+c1 score: 878.26	 c1 Moving average: 876.03
+c2 score: 868.94	 c2 Moving average: 878.33
+Ep 2010	Last score: 859.64	Moving average score: 861.64
+c1 score: 922.60	 c1 Moving average: 876.03
+c2 score: 916.80	 c2 Moving average: 875.42
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2020	Last score: 1019.10	Moving average score: 853.79
+c1 score: 885.13	 c1 Moving average: 873.70
+c2 score: 859.11	 c2 Moving average: 871.60
+Ep 2030	Last score: 851.66	Moving average score: 858.24
+c1 score: 854.55	 c1 Moving average: 874.03
+c2 score: 851.05	 c2 Moving average: 870.49
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2040	Last score: 1020.10	Moving average score: 851.86
+c1 score: 878.42	 c1 Moving average: 875.41
+c2 score: 925.20	 c2 Moving average: 873.16
+Ep 2050	Last score: 889.43	Moving average score: 847.41
+c1 score: 917.60	 c1 Moving average: 875.82
+c2 score: 890.20	 c2 Moving average: 873.10
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2060	Last score: 882.71	Moving average score: 843.21
+c1 score: 914.20	 c1 Moving average: 878.31
+c2 score: 916.10	 c2 Moving average: 875.36
+Ep 2070	Last score: 864.04	Moving average score: 840.11
+c1 score: 925.60	 c1 Moving average: 880.37
+c2 score: 885.45	 c2 Moving average: 878.13
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2080	Last score: 876.15	Moving average score: 839.52
+c1 score: 907.50	 c1 Moving average: 880.77
+c2 score: 907.20	 c2 Moving average: 879.36
+Ep 2090	Last score: 874.58	Moving average score: 841.26
+c1 score: 909.10	 c1 Moving average: 882.79
+c2 score: 910.50	 c2 Moving average: 880.87
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2100	Last score: 880.24	Moving average score: 834.75
+c1 score: 923.30	 c1 Moving average: 874.62
+c2 score: 923.70	 c2 Moving average: 873.22
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2110	Last score: 700.92	Moving average score: 831.54
+c1 score: 918.20	 c1 Moving average: 877.56
+c2 score: 918.60	 c2 Moving average: 875.91
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2120	Last score: 310.78	Moving average score: 830.77
+c1 score: 910.60	 c1 Moving average: 874.92
+c2 score: 910.10	 c2 Moving average: 874.77
+Ep 2130	Last score: 869.72	Moving average score: 820.55
+c1 score: 867.61	 c1 Moving average: 875.77
+c2 score: 932.10	 c2 Moving average: 874.64
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2140	Last score: 592.37	Moving average score: 819.83
+c1 score: 862.50	 c1 Moving average: 876.44
+c2 score: 878.12	 c2 Moving average: 873.31
+Ep 2150	Last score: 874.64	Moving average score: 804.60
+c1 score: 870.10	 c1 Moving average: 876.46
+c2 score: 919.60	 c2 Moving average: 875.48
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2160	Last score: 873.12	Moving average score: 803.55
+c1 score: 881.34	 c1 Moving average: 878.17
+c2 score: 855.22	 c2 Moving average: 876.49
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2170	Last score: 1019.20	Moving average score: 810.47
+c1 score: 885.92	 c1 Moving average: 878.92
+c2 score: 857.75	 c2 Moving average: 876.05
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2180	Last score: 860.68	Moving average score: 813.67
+c1 score: 889.80	 c1 Moving average: 876.41
+c2 score: 889.80	 c2 Moving average: 872.95
+Ep 2190	Last score: 1015.00	Moving average score: 803.72
+c1 score: 922.60	 c1 Moving average: 877.37
+c2 score: 889.01	 c2 Moving average: 873.56
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2200	Last score: 882.06	Moving average score: 796.77
+c1 score: 889.66	 c1 Moving average: 878.32
+c2 score: 902.10	 c2 Moving average: 874.34
+Ep 2210	Last score: 864.34	Moving average score: 803.44
+c1 score: 883.22	 c1 Moving average: 879.83
+c2 score: 896.64	 c2 Moving average: 871.99
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 0.99 0.98 0.98 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 0.98 0.99 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2220	Last score: 868.62	Moving average score: 805.67
+c1 score: 868.35	 c1 Moving average: 875.95
+c2 score: 871.52	 c2 Moving average: 869.75
+Ep 2230	Last score: 1012.20	Moving average score: 796.70
+c1 score: 873.06	 c1 Moving average: 876.46
+c2 score: 869.70	 c2 Moving average: 870.89
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2240	Last score: 889.02	Moving average score: 805.94
+c1 score: 866.91	 c1 Moving average: 877.37
+c2 score: 866.91	 c2 Moving average: 871.28
+Ep 2250	Last score: 809.23	Moving average score: 802.95
+c1 score: 893.46	 c1 Moving average: 876.32
+c2 score: 850.98	 c2 Moving average: 869.42
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2260	Last score: 825.31	Moving average score: 791.78
+c1 score: 293.84	 c1 Moving average: 869.82
+c2 score: 831.51	 c2 Moving average: 861.99
+Ep 2270	Last score: 876.49	Moving average score: 801.40
+c1 score: 842.68	 c1 Moving average: 868.40
+c2 score: 842.68	 c2 Moving average: 861.47
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2280	Last score: 867.04	Moving average score: 801.31
+c1 score: 879.02	 c1 Moving average: 871.28
+c2 score: 868.53	 c2 Moving average: 863.88
+Ep 2290	Last score: 848.47	Moving average score: 804.79
+c1 score: 872.32	 c1 Moving average: 871.90
+c2 score: 865.40	 c2 Moving average: 865.60
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2300	Last score: 1024.50	Moving average score: 819.08
+c1 score: 889.09	 c1 Moving average: 873.09
+c2 score: 870.91	 c2 Moving average: 866.75
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2310	Last score: 849.72	Moving average score: 832.00
+c1 score: 915.60	 c1 Moving average: 875.22
+c2 score: 890.38	 c2 Moving average: 869.56
+Ep 2320	Last score: 863.98	Moving average score: 830.90
+c1 score: 860.24	 c1 Moving average: 876.32
+c2 score: 884.71	 c2 Moving average: 870.99
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2330	Last score: 887.18	Moving average score: 819.91
+c1 score: 878.18	 c1 Moving average: 876.16
+c2 score: 870.91	 c2 Moving average: 873.55
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2340	Last score: 799.38	Moving average score: 823.56
+c1 score: 879.93	 c1 Moving average: 876.30
+c2 score: 876.59	 c2 Moving average: 874.35
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2350	Last score: 49.74	Moving average score: 786.89
+c1 score: 110.88	 c1 Moving average: 847.12
+c2 score: 158.50	 c2 Moving average: 843.94
+Ep 2360	Last score: 1.59	Moving average score: 713.94
+c1 score: 162.30	 c1 Moving average: 785.35
+c2 score: 198.36	 c2 Moving average: 781.62
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2370	Last score: 13.26	Moving average score: 648.11
+c1 score: 133.01	 c1 Moving average: 732.60
+c2 score: 110.36	 c2 Moving average: 732.33
+Ep 2380	Last score: 4.87	Moving average score: 587.86
+c1 score: 367.92	 c1 Moving average: 689.86
+c2 score: 250.94	 c2 Moving average: 695.61
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2390	Last score: 84.75	Moving average score: 534.42
+c1 score: 146.91	 c1 Moving average: 638.96
+c2 score: 187.04	 c2 Moving average: 648.08
+Ep 2400	Last score: 50.19	Moving average score: 486.53
+c1 score: 252.31	 c1 Moving average: 606.77
+c2 score: 451.60	 c2 Moving average: 618.88
+eta: 0.10
+Source acc 0.98 1.00 1.00 0.99 1.00 1.00 1.00 0.98 1.00 1.00  
+Target acc 0.99 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2410	Last score: 315.77	Moving average score: 454.75
+c1 score: 255.87	 c1 Moving average: 576.83
+c2 score: 248.75	 c2 Moving average: 582.72
+Ep 2420	Last score: 21.19	Moving average score: 429.84
+c1 score: 346.49	 c1 Moving average: 545.39
+c2 score: 335.42	 c2 Moving average: 549.24
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2430	Last score: 287.17	Moving average score: 409.42
+c1 score: 336.07	 c1 Moving average: 521.68
+c2 score: 336.07	 c2 Moving average: 525.20
+Ep 2440	Last score: 62.06	Moving average score: 388.45
+c1 score: 225.00	 c1 Moving average: 495.05
+c2 score: 221.43	 c2 Moving average: 498.30
+Ep 2450	Last score: 35.73	Moving average score: 370.92
+c1 score: 210.77	 c1 Moving average: 467.80
+c2 score: 207.69	 c2 Moving average: 474.48
+eta: 0.10
+Source acc 1.00 0.99 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2460	Last score: 442.40	Moving average score: 372.93
+c1 score: 524.09	 c1 Moving average: 465.08
+c2 score: 436.50	 c2 Moving average: 468.51
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2470	Last score: 128.24	Moving average score: 387.07
+c1 score: 772.25	 c1 Moving average: 485.62
+c2 score: 772.25	 c2 Moving average: 481.66
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2480	Last score: 847.25	Moving average score: 410.44
+c1 score: 673.46	 c1 Moving average: 492.13
+c2 score: 670.23	 c2 Moving average: 489.35
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2490	Last score: 757.38	Moving average score: 421.27
+c1 score: 524.60	 c1 Moving average: 498.96
+c2 score: 521.36	 c2 Moving average: 502.81
+Ep 2500	Last score: 111.86	Moving average score: 417.29
+c1 score: 687.64	 c1 Moving average: 504.59
+c2 score: 791.89	 c2 Moving average: 504.73
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2510	Last score: 816.51	Moving average score: 440.80
+c1 score: 742.66	 c1 Moving average: 517.67
+c2 score: 746.15	 c2 Moving average: 516.44
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2520	Last score: 817.16	Moving average score: 472.04
+c1 score: 461.64	 c1 Moving average: 534.62
+c2 score: 756.16	 c2 Moving average: 539.65
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2530	Last score: 846.33	Moving average score: 491.21
+c1 score: 845.95	 c1 Moving average: 547.88
+c2 score: 830.50	 c2 Moving average: 554.29
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2540	Last score: 292.24	Moving average score: 516.34
+c1 score: 312.14	 c1 Moving average: 560.98
+c2 score: 433.55	 c2 Moving average: 565.60
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2550	Last score: 824.22	Moving average score: 531.14
+c1 score: 744.59	 c1 Moving average: 575.94
+c2 score: 747.97	 c2 Moving average: 580.53
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2560	Last score: 812.45	Moving average score: 550.76
+c1 score: 770.86	 c1 Moving average: 589.39
+c2 score: 760.93	 c2 Moving average: 592.92
+Ep 2570	Last score: 128.21	Moving average score: 561.92
+c1 score: 748.61	 c1 Moving average: 603.27
+c2 score: 860.16	 c2 Moving average: 610.90
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2580	Last score: 832.67	Moving average score: 584.47
+c1 score: 796.67	 c1 Moving average: 622.09
+c2 score: 806.67	 c2 Moving average: 628.12
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2590	Last score: 790.91	Moving average score: 608.23
+c1 score: 868.20	 c1 Moving average: 638.01
+c2 score: 861.13	 c2 Moving average: 644.82
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2600	Last score: 839.01	Moving average score: 613.38
+c1 score: 627.27	 c1 Moving average: 650.95
+c2 score: 849.09	 c2 Moving average: 660.65
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2610	Last score: 813.41	Moving average score: 612.98
+c1 score: 566.67	 c1 Moving average: 656.86
+c2 score: 596.08	 c2 Moving average: 667.26
+Ep 2620	Last score: 850.88	Moving average score: 618.85
+c1 score: 854.06	 c1 Moving average: 654.59
+c2 score: 857.60	 c2 Moving average: 665.30
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2630	Last score: 849.26	Moving average score: 639.06
+c1 score: 877.53	 c1 Moving average: 666.42
+c2 score: 866.29	 c2 Moving average: 676.55
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2640	Last score: 838.27	Moving average score: 655.17
+c1 score: 743.75	 c1 Moving average: 672.88
+c2 score: 775.00	 c2 Moving average: 684.11
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2650	Last score: 840.66	Moving average score: 671.50
+c1 score: 837.50	 c1 Moving average: 684.81
+c2 score: 854.86	 c2 Moving average: 695.84
+Ep 2660	Last score: 803.97	Moving average score: 677.34
+c1 score: 783.72	 c1 Moving average: 691.48
+c2 score: 813.62	 c2 Moving average: 702.74
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2670	Last score: 854.99	Moving average score: 687.61
+c1 score: 853.95	 c1 Moving average: 698.56
+c2 score: 880.26	 c2 Moving average: 709.46
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2680	Last score: 845.46	Moving average score: 702.82
+c1 score: 867.87	 c1 Moving average: 706.92
+c2 score: 776.30	 c2 Moving average: 717.94
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2690	Last score: 847.81	Moving average score: 713.12
+c1 score: 602.19	 c1 Moving average: 714.12
+c2 score: 617.87	 c2 Moving average: 727.89
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2700	Last score: 813.73	Moving average score: 726.59
+c1 score: 732.32	 c1 Moving average: 726.39
+c2 score: 732.32	 c2 Moving average: 738.83
+Ep 2710	Last score: 856.60	Moving average score: 729.61
+c1 score: 836.24	 c1 Moving average: 726.20
+c2 score: 826.17	 c2 Moving average: 740.84
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2720	Last score: 835.78	Moving average score: 733.07
+c1 score: 818.30	 c1 Moving average: 728.62
+c2 score: 841.18	 c2 Moving average: 744.58
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2730	Last score: 859.08	Moving average score: 743.99
+c1 score: 884.56	 c1 Moving average: 737.65
+c2 score: 861.39	 c2 Moving average: 753.16
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2740	Last score: 828.47	Moving average score: 745.30
+c1 score: 767.51	 c1 Moving average: 742.44
+c2 score: 808.52	 c2 Moving average: 758.28
+Ep 2750	Last score: 817.79	Moving average score: 747.89
+c1 score: 853.39	 c1 Moving average: 745.18
+c2 score: 779.11	 c2 Moving average: 763.52
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2760	Last score: 861.88	Moving average score: 750.96
+c1 score: 855.48	 c1 Moving average: 751.26
+c2 score: 879.45	 c2 Moving average: 770.77
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2770	Last score: 826.52	Moving average score: 758.43
+c1 score: 843.26	 c1 Moving average: 757.16
+c2 score: 896.45	 c2 Moving average: 776.40
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2780	Last score: 798.20	Moving average score: 763.39
+c1 score: 868.31	 c1 Moving average: 762.07
+c2 score: 861.27	 c2 Moving average: 781.92
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2790	Last score: 827.17	Moving average score: 770.66
+c1 score: 866.67	 c1 Moving average: 769.50
+c2 score: 880.00	 c2 Moving average: 787.41
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2800	Last score: 824.64	Moving average score: 762.04
+c1 score: 822.81	 c1 Moving average: 771.81
+c2 score: 829.82	 c2 Moving average: 788.06
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2810	Last score: 848.56	Moving average score: 768.51
+c1 score: 830.56	 c1 Moving average: 776.73
+c2 score: 875.69	 c2 Moving average: 792.41
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2820	Last score: 835.15	Moving average score: 775.54
+c1 score: 869.81	 c1 Moving average: 782.11
+c2 score: 854.72	 c2 Moving average: 796.88
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2830	Last score: 837.55	Moving average score: 781.57
+c1 score: 849.28	 c1 Moving average: 786.47
+c2 score: 874.64	 c2 Moving average: 800.74
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2840	Last score: 843.16	Moving average score: 786.26
+c1 score: 893.29	 c1 Moving average: 789.97
+c2 score: 893.29	 c2 Moving average: 802.99
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2850	Last score: 828.33	Moving average score: 791.74
+c1 score: 834.03	 c1 Moving average: 795.67
+c2 score: 844.44	 c2 Moving average: 807.35
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+Ep 2860	Last score: 847.14	Moving average score: 797.18
+c1 score: 881.82	 c1 Moving average: 800.57
+c2 score: 863.64	 c2 Moving average: 812.75
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2870	Last score: 835.00	Moving average score: 797.53
+c1 score: 846.84	 c1 Moving average: 802.96
+c2 score: 860.13	 c2 Moving average: 814.35
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+retry to generate track (normal if there are not manyinstances of this message)
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2880	Last score: 847.17	Moving average score: 797.19
+c1 score: 889.32	 c1 Moving average: 808.55
+c2 score: 889.32	 c2 Moving average: 819.82
+Ep 2890	Last score: 854.73	Moving average score: 800.58
+c1 score: 889.21	 c1 Moving average: 811.13
+c2 score: 878.42	 c2 Moving average: 822.34
+eta: 0.10
+Source acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Target acc 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00  
+Ep 2900	Last score: 852.20	Moving average score: 802.61
+c1 score: 893.33	 c1 Moving average: 812.70
+c2 score: 886.67	 c2 Moving average: 822.72
